@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Ishwar Rathod</h1>
-# Hi, I'm Ishwar Rathod 👋
 
 🎓 Computer Engineering Graduate
 💻 Full Stack Developer
